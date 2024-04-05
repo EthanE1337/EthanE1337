@@ -3,7 +3,8 @@
 <h2>👨‍💻 Netoworking/Cybersecurity Projects:</h2>
 
 - <b>[Netowkring] How To Build A Network From Scratch</b>
-  - [GNS3]
+  - [EVE-NG]
+  - [CML]
 
 - <b>[Home Labs]</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
@@ -13,7 +14,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [How To Build A Network From Scratch]
+- [TBD]
 
 <h2> 🤳 Connect with me:</h2>
 
